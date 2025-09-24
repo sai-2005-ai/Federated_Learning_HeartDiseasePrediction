@@ -69,9 +69,6 @@ Loss
 📊 Bar Chart: Hybrid FL vs Centralized (With & Without SMOTE)
 
 Installation & Usage
-1️⃣ Clone Repository
-git clone https://github.com/yoursai-2005-ai/federated-learning-comparison.git
-cd federated-learning-comparison
 2️⃣ Install Dependencies
 pip install -r requirements.txt
 3️⃣ Run Script
